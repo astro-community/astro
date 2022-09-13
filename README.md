@@ -122,7 +122,7 @@ Astro is generously supported by Netlify, Vercel, and several other amazing orga
   </tbody>
 </table>
 
-### Sponsors
+### Sponsors!
 
 <table>
   <tbody>
